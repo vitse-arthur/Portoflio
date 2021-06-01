@@ -17,11 +17,11 @@ body {
 }
 @font-face {
 	font-family: 'Proxima';
-	src: url(../fonts/ProximaNova-Regular.otf);
+	src: url(fonts/ProximaNova-Regular.otf);
 }
 @font-face {
 	font-family: 'Proxima Bold';
-	src: url(../fonts/ProximaNova-Bold.otf);
+	src: url(fonts/ProximaNova-Bold.otf);
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Proxima Bold";
@@ -51,7 +51,7 @@ h6 {
 }
 /* home section */
 #home {
-	background: url('../images/home-bg.jpg') 50% 0 repeat-y fixed;
+	background: url('images/home-bg.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-repeat: no-repeat;
 	color: #ffffff;
